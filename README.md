@@ -8,6 +8,6 @@ Welcome to the Sports Recognition System! This system utilizes advanced machine 
 
 3. High Accuracy: The deep learning model is trained on a diverse dataset, resulting in accurate sports recognition.
 
-4.UFC101 Dataset Integration: Incorporated the UFC101 dataset, which encompasses a wide array of mixed martial arts actions, enriching the system's ability to                                      identify specific sports actions.
+4. UFC101 Dataset Integration: Incorporated the UFC101 dataset, which encompasses a wide array of mixed martial arts actions, enriching the system's ability to                                      identify specific sports actions.
 
 5. Enhanced Assessment Platform: Created an intuitive platform for users to view and assess recognition results, providing a clear understanding of the identified                                     sport and associated confidence scores.
